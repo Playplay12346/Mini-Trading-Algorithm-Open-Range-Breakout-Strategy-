@@ -2,7 +2,7 @@
 This is a mini project that uses a Telegram Bot to send signals on Longs &amp; Shorts of a trade, using the Open Range Breakout Strategy with the help of ChatGPT<br>
 
 <H2>Disclaimer</H2>
-NOT FINANCIAL ADVICE: This is my own intrepretation of my algorithm, and by no measn financial advice. I do not have even the basic certification or studied finance under any proper organisation, use it at your own risk.This project is meant to be a small passion project and is created with the help of ChatGPT.
+NOT FINANCIAL ADVICE: This is my own intrepretation of my algorithm, and by no means financial advice. I do not have even the basic certification or studied finance under any proper organisation, use the project at your own risk. This project is meant to be a small passion project and is created with the help of ChatGPT.
 
 <H2>Summary of Project</H2>
 This project is just a test to recall usages of APIs and test my financial knowledge, and is by no means any form of financial advice. The algorithm uses Open Range Breakout Strategy, with the timings of the stock martket to determine whether or not to go long or short on that particular product, whether it be ETFs or individual stocks etc. I tested it on a number of ETFs using different charts: 5m, 15m; on ETFS such as: SPY, QQQ, VOO or any form of leverage ETFs.
