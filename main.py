@@ -1,5 +1,4 @@
 # === ORB Breakout Strategy with Telegram Alerts ===
-# Runs on 5-minute candles, checks every 1 min, sends signals to Telegram
 
 import yfinance as yf
 import pandas as pd
