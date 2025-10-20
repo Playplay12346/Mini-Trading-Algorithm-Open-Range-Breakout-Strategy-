@@ -1,8 +1,8 @@
 # Mini-Trading-Algorithm-Open-Range-Breakout-Strategy-
-***NOT FINANCIAL ADVICE*** <br>
 This is a mini project that uses a Telegram Bot to send signals on Longs &amp; Shorts of a trade, using the Open Range Breakout Strategy with the help of ChatGPT<br>
 
-<H1>Disclaimer</H1>
+<H2>Disclaimer</H2>
+***NOT FINANCIAL ADVICE*** <br>
 Written below is my own intrepretation of my algorithm, and by no measn financial advice. I do not have even the basic certification or studied finance under any proper organisation, use it at your own risk.This project is meant to be a small passion project and is created with the help of ChatGPT.
 
 <H2>Summary of Project</H2>
